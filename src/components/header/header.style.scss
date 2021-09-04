@@ -1,0 +1,36 @@
+
+.header {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    .logo-container {
+        height: 100%;
+        width: 70px;
+        padding: 25px;
+      }
+      .name{
+      color: beige;
+      cursor: default;
+      }
+      .options {
+        width: 50%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        cursor: pointer;
+        color:whitesmoke;
+        
+    
+        .option {
+          padding: 8px 9px;
+         
+        }
+        
+      }
+    }
+    a{
+    color:whitesmoke;
+    }
