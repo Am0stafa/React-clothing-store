@@ -1,5 +1,6 @@
 //step 3
 //howa el by8ayar fel state bynafz el action
+//function betrga3 data
 import {CartActionType} from './cart.type'
 import {addItemTocart,removeItemFromCart} from './cart.utils'
 
