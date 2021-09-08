@@ -1,5 +1,6 @@
 //step 2
 // el action howa wasf el state
+//javascript object byklm el reducer y2olo ezay y8ayar fel data
 
 import {CartActionType} from './cart.type'
  
