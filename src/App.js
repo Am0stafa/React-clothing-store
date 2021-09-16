@@ -1,4 +1,4 @@
-import React , { Component }  from 'react';
+import React , { Component, /*lazy*/ }  from 'react';
 import './App.css';
 import Hompage from './pages/hompage/homepage.component';
 import {Route, Switch, Redirect} from 'react-router-dom'
@@ -10,7 +10,8 @@ import {connect} from 'react-redux'
 import {setCurrentUser} from './redux/user/user.action'
 import CheckoutPage from './pages/checkout/checkout.component';
   
-
+//lazy and suspense are for performance along with error boundries dont forget it 
+//const Hompage = lazy(() => import('./pages/hompage/homepage.component')   )
 
 export class App extends Component {
 
