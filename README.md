@@ -1,4 +1,4 @@
-To view the app, visit : https://abdo-clothing-store-live.netlify.app/
+To view the app, visit : https://ame-clothing-store-live.netlify.app/
 
 
 # How to fork and clone
