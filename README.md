@@ -120,8 +120,6 @@ Set the `publishableKey` variable in the `stripe-button.component.jsx` with your
 # Clone your fork
 $ git clone https://github.com/francianepovoa/crwn-clothing.git
 
-$ cd crwn-clothing
-
 # Create a branch with your feature
 $ git checkout -b your-feature
 
