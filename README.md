@@ -21,7 +21,7 @@ check out https://crown-live-clothes.herokuapp.com/
 
 ## 👨🏻‍💻 About the project
 
- This is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+ This is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app using Firebase.
 
  - React
 
